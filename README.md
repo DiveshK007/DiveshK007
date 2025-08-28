@@ -52,8 +52,8 @@ Presented **BitLend**, a decentralized lending platform with wallet-native flows
 🏅 **IIT Madras Smart Hostel Hackathon — Finalist (Top 25)**  
 Shipped a modular blockchain solution for smart hostel management.
 
-🏅 **BNB Hack Bombay — Finalist **  
-Pitched **RegChain** (compliance chain) and **DataVault** (secure dataset vault).  
+🏅 **BNB Hack Bombay — Finalist**  
+Pitched **DataVault** (secure dataset vault).  
 Shortlisted with **VeriField** (verifiable datasets dApp on opBNB + Greenfield).
 
 🛡️ **ExploiX CTF — Finalist (Top 40)**  
