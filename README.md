@@ -84,7 +84,6 @@ Blockchain + exploit-focused challenges.
 ## 📫 Find me
 
 - **LinkedIn:** https://www.linkedin.com/in/diveshk007/
-- **Email:** add your email here
-- **Twitter/X:** add your handle here
-
+- **Email:** diveshkumar.s007@gmail.com
+- **Twitter/X:** https://x.com/DIVZZZ007
 > Always open to collabs in Web3 × AI. Let’s build. ⚡
