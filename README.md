@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Divesh Kumar
+# 👋 Hey, I’m Divesh 
 
 🚀 **Full-Stack & Web3 Builder** — I ship usable crypto products fast.  
 **Focus:** Blockchain × AI • Data NFTs • BNB Greenfield storage • Wallet-native UX.
