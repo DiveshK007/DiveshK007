@@ -136,8 +136,8 @@ struct Divesh {
     <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=DiveshK007&repo=APEX-Bot&hide_border=true&bg_color=1e1b4b&title_color=a78bfa&icon_color=f472b6&text_color=e0d7ff&description_lines_count=2"/>
   </a>
   &nbsp;
-  <a href="https://github.com/DiveshK007/ZETA">
-    <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=DiveshK007&repo=ZETA&hide_border=true&bg_color=1e1b4b&title_color=a78bfa&icon_color=f472b6&text_color=e0d7ff&description_lines_count=2"/>
+  <a href="https://github.com/DiveshK007/zeta-simulation">
+    <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=DiveshK007&repo=zeta-simulation&hide_border=true&bg_color=1e1b4b&title_color=a78bfa&icon_color=f472b6&text_color=e0d7ff&description_lines_count=2"/>
   </a>
 </div>
 
