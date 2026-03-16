@@ -130,6 +130,20 @@ struct Divesh {
 
 ## `$  cat projects.md`
 
+<!-- PINNED REPO CARDS — top 2 -->
+<div align="center">
+  <a href="https://github.com/DiveshK007/APEX-Bot">
+    <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=DiveshK007&repo=APEX-Bot&hide_border=true&bg_color=1e1b4b&title_color=a78bfa&icon_color=f472b6&text_color=e0d7ff&description_lines_count=2"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/DiveshK007/ZETA">
+    <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=DiveshK007&repo=ZETA&hide_border=true&bg_color=1e1b4b&title_color=a78bfa&icon_color=f472b6&text_color=e0d7ff&description_lines_count=2"/>
+  </a>
+</div>
+
+<br/>
+
+<!-- REST OF PROJECTS -->
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -254,13 +268,27 @@ struct Divesh {
 ## `$  git log --oneline --graph`
 
 <div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=DiveshK007&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=1e1b4b&title_color=a78bfa&icon_color=f472b6&text_color=e0d7ff&ring_color=6366f1"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=DiveshK007&show_icons=true&count_private=true&hide_border=true&bg_color=1e1b4b&title_color=a78bfa&icon_color=f472b6&text_color=e0d7ff&ring_color=6366f1"/>
   &nbsp;
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiveshK007&layout=compact&hide_border=true&bg_color=1e1b4b&title_color=a78bfa&text_color=e0d7ff&langs_count=8"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiveshK007&layout=compact&hide_border=true&bg_color=1e1b4b&title_color=a78bfa&text_color=e0d7ff&langs_count=8&hide=html,css"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DiveshK007&hide_border=true&background=1e1b4b&ring=6366f1&fire=ec4899&currStreakLabel=a78bfa&sideLabels=8b5cf6&dates=6d5aac&currStreakNum=e0d7ff&sideNums=e0d7ff"/>
+  <img src="https://streak-stats.demolab.com/?user=DiveshK007&hide_border=true&background=1e1b4b&ring=6366f1&fire=ec4899&currStreakLabel=a78bfa&sideLabels=8b5cf6&dates=6d5aac&currStreakNum=e0d7ff&sideNums=e0d7ff"/>
+</div>
+
+<br/>
+
+<!-- ACTIVITY GRAPH -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DiveshK007&bg_color=1e1b4b&color=a78bfa&line=6366f1&point=ec4899&area=true&area_color=6366f1&hide_border=true&custom_title=Contribution%20Activity" width="100%"/>
+</div>
+
+<br/>
+
+<!-- TROPHIES -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DiveshK007&theme=discord&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" width="100%"/>
 </div>
 
 <br/>
@@ -324,6 +352,15 @@ struct Divesh {
 </div>
 
 <br/>
+
+<!-- SNAKE -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DiveshK007/DiveshK007/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DiveshK007/DiveshK007/output/github-snake.svg"/>
+    <img alt="github-snake" src="https://raw.githubusercontent.com/DiveshK007/DiveshK007/output/github-snake-dark.svg" width="100%"/>
+  </picture>
+</div>
 
 <!-- FOOTER — Style 3 gradient -->
 <div align="center">
