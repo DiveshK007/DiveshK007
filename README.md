@@ -1,89 +1,175 @@
-# 👋 Hey, I’m Divesh 
+<!-- Header -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Divesh%20Kumar%20S&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Web3%20Builder%20%7C%20Researcher&descSize=18&descColor=a5b4fc&descAlignY=60&animation=fadeIn" width="100%"/>
+</div>
 
-🚀 **Full-Stack & Web3 Builder** — I ship usable crypto products fast.  
-**Focus:** Blockchain × AI • Data NFTs • BNB Greenfield storage • Wallet-native UX.
+<!-- Typing animation -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=818CF8&center=true&vCenter=true&width=600&lines=Building+AI+systems+that+act+in+the+real+world;Rust+%2B+Solana+%7C+PyTorch+%7C+Foundation+Models;IEEE+Published+%40+19+%7C+ICOSEC+2025;B.Tech+CSE+%40+Chennai+Institute+of+Technology" alt="Typing SVG" />
+</div>
 
----
+<br/>
 
-## 🧰 Tech Stack
+<!-- About -->
+## `> whoami`
 
-**Blockchain & Web3**  
-![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-F7DF1E?logo=hardhat&logoColor=black)
-![wagmi](https://img.shields.io/badge/wagmi-000?logo=react&logoColor=white)
-![viem](https://img.shields.io/badge/Viem-2C2C2C?logo=ethereum&logoColor=white)
-![Ethers.js](https://img.shields.io/badge/Ethers.js-2536A6?logo=ethers&logoColor=white)
-![IPFS](https://img.shields.io/badge/IPFS-65C2CB?logo=ipfs&logoColor=white)
-![opBNB](https://img.shields.io/badge/opBNB-F0B90B?logo=binance&logoColor=white)
-![BNB Greenfield](https://img.shields.io/badge/BNB%20Greenfield-1E1E1E?logo=binance&logoColor=F0B90B)
+```python
+divesh = {
+    "name"       : "Divesh Kumar S",
+    "age"        : 19,
+    "role"       : ["AI Developer Intern @ BSAP Inc.", "Blockchain Researcher @ CoE CIT"],
+    "research"   : "Foundation Language Models × Robotics × Embodied AI",
+    "published"  : "ZETA — IEEE ICOSEC 2025 (Zero-Shot Task Automation w/ FLMs)",
+    "currently"  : ["APEX-Bot (Rust/Solana sniper)", "Google Solution Challenge 2025"],
+    "applying"   : ["RIKEN GRP Summer 2026 🇯🇵", "TEEP @ NYCU 🇹🇼"],
+    "interests"  : ["RL + HRI", "Solana/Web3", "Crypto/Forex Trading", "Fitness"],
+}
+```
 
-**Frontend**  
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+<br/>
 
-**Backend & Infra**  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-404D59?logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+<!-- Tech Stack -->
+## `> tech_stack --all`
 
-**AI/ML & Data**  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+**AI / ML**
 
----
+![Python](https://img.shields.io/badge/Python-0f0f23?style=for-the-badge&logo=python&logoColor=818CF8)
+![PyTorch](https://img.shields.io/badge/PyTorch-0f0f23?style=for-the-badge&logo=pytorch&logoColor=818CF8)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0f0f23?style=for-the-badge&logo=tensorflow&logoColor=818CF8)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0f0f23?style=for-the-badge&logo=huggingface&logoColor=818CF8)
+![OpenCV](https://img.shields.io/badge/OpenCV-0f0f23?style=for-the-badge&logo=opencv&logoColor=818CF8)
+![LangChain](https://img.shields.io/badge/LangChain-0f0f23?style=for-the-badge&logo=chainlink&logoColor=818CF8)
 
-## 🏆 Hackathons & Highlights
+**Web3 / Systems**
 
-🥇 **Bitcoin++ Global Hackathon — Top Presenter**  
-Presented **BitLend**, a decentralized lending platform with wallet-native flows and on-chain credit control.
+![Rust](https://img.shields.io/badge/Rust-0f0f23?style=for-the-badge&logo=rust&logoColor=f97316)
+![Solana](https://img.shields.io/badge/Solana-0f0f23?style=for-the-badge&logo=solana&logoColor=f97316)
+![Solidity](https://img.shields.io/badge/Solidity-0f0f23?style=for-the-badge&logo=solidity&logoColor=f97316)
+![TypeScript](https://img.shields.io/badge/TypeScript-0f0f23?style=for-the-badge&logo=typescript&logoColor=f97316)
+![Next.js](https://img.shields.io/badge/Next.js-0f0f23?style=for-the-badge&logo=next.js&logoColor=f97316)
 
-🏅 **IIT Madras Smart Hostel Hackathon — Finalist (Top 25)**  
-Shipped a modular blockchain solution for smart hostel management.
+**Infra / Tools**
 
-🏅 **BNB Hack Bombay — Finalist**  
-Pitched **DataVault** (secure dataset vault).  
-Shortlisted with **VeriField** (verifiable datasets dApp on opBNB + Greenfield).
+![Docker](https://img.shields.io/badge/Docker-0f0f23?style=for-the-badge&logo=docker&logoColor=38bdf8)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f0f23?style=for-the-badge&logo=postgresql&logoColor=38bdf8)
+![AWS](https://img.shields.io/badge/AWS-0f0f23?style=for-the-badge&logo=amazonaws&logoColor=38bdf8)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0f0f23?style=for-the-badge&logo=githubactions&logoColor=38bdf8)
 
-🛡️ **ExploiX CTF — Finalist (Top 40)**  
-Blockchain + exploit-focused challenges.
+<br/>
 
----
+<!-- Projects -->
+## `> ls ./projects --pinned`
 
-## 🚧 Things I’m building
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- **BitLend** — Wallet-native lending with on-chain credit guardrails.  
-- **VeriField** — DeSci marketplace for research datasets (DataNFTs, verified badges, AI search).  
-- **Goal Garden** — Minimal, streak-based habit/goal tracker.
+### ⚡ APEX-Bot
+> Rust-based Solana memecoin sniper running on mainnet. WebSocket price feeds, stop-loss logic, PnL reporting. Real money, real stakes.
 
-**Tech I use daily:** Solidity • Hardhat/Foundry • Ethers.js/viem • Next.js • TypeScript • Node.js • PostgreSQL • Docker • BNB Chain / Greenfield
+`Rust` `Solana` `WebSocket` `Mainnet`
 
----
+</td>
+<td width="50%" valign="top">
 
-## 📌 Pinned Projects
+### 🤖 ZETA Framework
+> Zero-Shot Embodied Task Automator — FLM + affordance-based skill selection + sensor feedback loop for robotic manipulation. **Published IEEE ICOSEC 2025.**
 
-- [**VeriField**](https://github.com/DiveshK007/verifield) — Verifiable datasets dApp (opBNB + Greenfield)  
-- **BitLend** — Decentralized crypto lending (Bitcoin++ hack)  
-- **RegChain** — Regulatory compliance prototype  
-- **DataVault** — Secure storage + verification for datasets  
-- **CTF/Exploit notes** — Write-ups & experiments
+`Python` `PyTorch` `PyBullet` `GPT-4` `CLIP`
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-## 📫 Find me
+### 🌍 P.E.E.R
+> Offline AI education platform targeting SDG 4. Google Solution Challenge 2025. Works without internet — built for underserved communities.
 
-- **LinkedIn:** https://www.linkedin.com/in/diveshk007/
-- **Email:** diveshkumar.s007@gmail.com
-- **Twitter/X:** https://x.com/DIVZZZ007
-> Always open to collabs in Web3 × AI. Let’s build. ⚡
+`Python` `Next.js` `AI` `Edge Deployment`
+
+</td>
+<td width="50%" valign="top">
+
+### 🏆 Lendora AI
+> AI-powered DeFi lending protocol on Cardano. **Won $2,000** at Cardano Global Hackathon.
+
+`Solidity` `Cardano` `AI` `DeFi`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔍 ScoutX
+> On-chain talent discovery and verification platform for Web3 recruitment.
+
+`Solana` `TypeScript` `Next.js`
+
+</td>
+<td width="50%" valign="top">
+
+### ✅ VeriField
+> Blockchain-based field data verification system. **Won $150** at BNB Bombay Hackathon.
+
+`BNB Chain` `Solidity` `React`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- Publications -->
+## `> cat publications.bib`
+
+```bibtex
+@inproceedings{divesh2025zeta,
+  title     = {Zero-Shot Task Automation with Foundation Language Models},
+  author    = {Divesh Kumar S and Dhev Arjun A I and M. Maharasi
+               and Dr. S. Pavithra Sankarappan},
+  booktitle = {6th International Conference on Smart Electronics
+               and Communication (ICOSEC-2025)},
+  publisher = {IEEE},
+  year      = {2025},
+  pages     = {1777--1783},
+  isbn      = {979-8-3315-9859-4},
+  note      = {Accepted, In Press — IEEE Xplore}
+}
+```
+
+> **[2]** Colon Polyp & Cancer Cell Detection using Deep Learning and Hyperspectral Imaging *(Manuscript in preparation, 2025–2026)*
+
+<br/>
+
+<!-- GitHub Stats -->
+## `> git log --stats`
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiveshK007&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0f0f23&title_color=818CF8&icon_color=818CF8&text_color=e2e8f0&ring_color=818CF8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiveshK007&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f0f23&title_color=818CF8&text_color=e2e8f0&langs_count=8"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DiveshK007&theme=midnight-purple&hide_border=true&background=0f0f23&ring=818CF8&fire=f97316&currStreakLabel=818CF8&sideLabels=a5b4fc&dates=64748b" alt="streak"/>
+</div>
+
+<br/>
+
+<!-- Socials -->
+## `> cat ./contact`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f0f23?style=for-the-badge&logo=linkedin&logoColor=818CF8)](https://linkedin.com/in/diveshk007)
+[![GitHub](https://img.shields.io/badge/GitHub-0f0f23?style=for-the-badge&logo=github&logoColor=818CF8)](https://github.com/DiveshK007)
+[![Email](https://img.shields.io/badge/Email-0f0f23?style=for-the-badge&logo=gmail&logoColor=818CF8)](mailto:diveshkumar.s007@gmail.com)
+[![Twitter/X](https://img.shields.io/badge/X-0f0f23?style=for-the-badge&logo=x&logoColor=818CF8)](https://x.com/DIVZZZ007)
+
+</div>
+
+<br/>
+
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" width="100%"/>
+</div>
