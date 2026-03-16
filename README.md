@@ -1,197 +1,153 @@
-<!-- STYLE 2: CYBERPUNK -->
+<!-- STYLE 3: GLASSMORPHISM / MODERN GRADIENT -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:001100&height=3&section=header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:6366f1,50:8b5cf6,100:ec4899&height=250&section=header&text=Divesh%20Kumar%20S&fontSize=55&fontColor=ffffff&fontAlignY=45&desc=AI%20Engineer%20%C2%B7%20Web3%20Builder%20%C2%B7%20Researcher&descSize=16&descColor=e0d7ff&descAlignY=65&animation=twinkling" width="100%"/>
 </div>
 
 <div align="center">
-<br/>
 
-```
-██████╗ ██╗██╗   ██╗███████╗███████╗██╗  ██╗
-██╔══██╗██║██║   ██║██╔════╝██╔════╝██║  ██║
-██║  ██║██║██║   ██║█████╗  ███████╗███████║
-██║  ██║██║╚██╗ ██╔╝██╔══╝  ╚════██║██╔══██║
-██████╔╝██║ ╚████╔╝ ███████╗███████║██║  ██║
-╚═════╝ ╚═╝  ╚═══╝  ╚══════╝╚══════╝╚═╝  ╚═╝
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=%3E+IEEE+Published+%40+19+%5BICOSEC+2025%5D;%3E+%244%2C650%2B+across+70%2B+hackathons;%3E+APEX-Bot+running+on+Solana+mainnet;%3E+AI+%2B+Web3+%2B+Research+%2F%2F+all+three" />
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=17&pause=1000&color=A78BFA&center=true&vCenter=true&width=620&lines=IEEE+Published+%40+19+%E2%80%94+ICOSEC+2025;%244%2C650%2B+across+70%2B+hackathons+%F0%9F%9A%80;Building+APEX-Bot+on+Solana+Mainnet;Foundation+Models+%C3%97+Embodied+AI+%C3%97+Web3" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-00FF41?style=for-the-badge&logo=linkedin&logoColor=000000)](https://linkedin.com/in/diveshk007)
-[![GitHub](https://img.shields.io/badge/GITHUB-00FF41?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/DiveshK007)
-[![Email](https://img.shields.io/badge/EMAIL-00FF41?style=for-the-badge&logo=gmail&logoColor=000000)](mailto:diveshkumar.s007@gmail.com)
-[![Twitter](https://img.shields.io/badge/X__DIVZZZ007-00FF41?style=for-the-badge&logo=x&logoColor=000000)](https://x.com/DIVZZZ007)
-[![Superteam](https://img.shields.io/badge/SUPERTEAM-00FF41?style=for-the-badge&logo=solana&logoColor=000000)](https://earn.superteam.fun/t/DIVZZZ007)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=4338ca)](https://linkedin.com/in/diveshk007)
+[![GitHub](https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=6d28d9)](https://github.com/DiveshK007)
+[![Email](https://img.shields.io/badge/Email-EC4899?style=for-the-badge&logo=gmail&logoColor=white&labelColor=be185d)](mailto:diveshkumar.s007@gmail.com)
+[![Twitter](https://img.shields.io/badge/@DIVZZZ007-6366F1?style=for-the-badge&logo=x&logoColor=white&labelColor=4338ca)](https://x.com/DIVZZZ007)
+[![Superteam](https://img.shields.io/badge/Superteam-8B5CF6?style=for-the-badge&logo=solana&logoColor=white&labelColor=6d28d9)](https://earn.superteam.fun/t/DIVZZZ007)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=DiveshK007&style=for-the-badge&color=6366f1&labelColor=1e1b4b&label=PROFILE+VIEWS)
+&nbsp;
+![IEEE](https://img.shields.io/badge/IEEE_Published-ICOSEC_2025-8b5cf6?style=for-the-badge&labelColor=1e1b4b)
+&nbsp;
+![Prizes](https://img.shields.io/badge/Prize_Pool-%244%2C650%2B-ec4899?style=for-the-badge&labelColor=1e1b4b)
 
 </div>
 
 ---
 
+### 👾 About Me
+
 ```
-> whoami
+🎓  B.Tech CSE — Chennai Institute of Technology (2024–2028)  ·  CGPA 7.65 ↑
+💼  AI Developer Intern @ BSAP Inc.  ·  Blockchain Researcher @ CoE CIT
+📄  Published: ZETA Framework — IEEE ICOSEC 2025 (pp. 1777–1783)
+🔑  ORCID: 0009-0001-1138-1529
+⚡  Building: APEX-Bot [Rust/Solana mainnet]  ·  P.E.E.R [Google Solution Challenge]
+🏆  $4,650+ in prizes  ·  70+ hackathons competed
 ```
 
-```yaml
-name:       Divesh Kumar S
-age:        19
-education:  B.Tech CSE @ Chennai Institute of Technology (2024–2028)
-role:       AI Developer Intern @ BSAP Inc.
-            Blockchain Researcher @ CoE CIT
-research:   Foundation Language Models × Embodied AI × HRI
-published:  ZETA — IEEE ICOSEC 2025 [pp. 1777–1783]
-orcid:      0009-0001-1138-1529
-building:   APEX-Bot [Rust/Solana/mainnet] | P.E.E.R [Google Solution Challenge]
-prizes:     $4,650+ across 70+ hackathons
-status:     ONLINE // open to collabs [Web3 | AI | Research]
-```
+I build at the intersection of **AI research** and **Web3 engineering** — from IEEE-published robotic task planners to live on-chain bots. I care about systems that work in the real world, not just on benchmarks.
 
 ---
 
-```
-> cat stack.config
-```
-
-**`// AI_ML`**
-
-![Python](https://img.shields.io/badge/Python-00FF41?style=flat-square&logo=python&logoColor=000)
-![PyTorch](https://img.shields.io/badge/PyTorch-00FF41?style=flat-square&logo=pytorch&logoColor=000)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-00FF41?style=flat-square&logo=tensorflow&logoColor=000)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-00FF41?style=flat-square&logo=huggingface&logoColor=000)
-![OpenCV](https://img.shields.io/badge/OpenCV-00FF41?style=flat-square&logo=opencv&logoColor=000)
-![LangChain](https://img.shields.io/badge/LangChain-00FF41?style=flat-square&logo=chainlink&logoColor=000)
-![PyBullet](https://img.shields.io/badge/PyBullet-00FF41?style=flat-square&logo=python&logoColor=000)
-
-**`// WEB3`**
-
-![Rust](https://img.shields.io/badge/Rust-00FF41?style=flat-square&logo=rust&logoColor=000)
-![Solana](https://img.shields.io/badge/Solana-00FF41?style=flat-square&logo=solana&logoColor=000)
-![Solidity](https://img.shields.io/badge/Solidity-00FF41?style=flat-square&logo=solidity&logoColor=000)
-![Hardhat](https://img.shields.io/badge/Hardhat-00FF41?style=flat-square&logo=ethereum&logoColor=000)
-![Foundry](https://img.shields.io/badge/Foundry-00FF41?style=flat-square&logo=ethereum&logoColor=000)
-![wagmi](https://img.shields.io/badge/wagmi-00FF41?style=flat-square&logo=react&logoColor=000)
-![BNB Greenfield](https://img.shields.io/badge/BNB_Greenfield-00FF41?style=flat-square&logo=binance&logoColor=000)
-![Avalanche](https://img.shields.io/badge/Avalanche-00FF41?style=flat-square&logo=avalanche&logoColor=000)
-
-**`// INFRA`**
-
-![Next.js](https://img.shields.io/badge/Next.js-00FF41?style=flat-square&logo=next.js&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-00FF41?style=flat-square&logo=typescript&logoColor=000)
-![FastAPI](https://img.shields.io/badge/FastAPI-00FF41?style=flat-square&logo=fastapi&logoColor=000)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-00FF41?style=flat-square&logo=postgresql&logoColor=000)
-![Docker](https://img.shields.io/badge/Docker-00FF41?style=flat-square&logo=docker&logoColor=000)
-![AWS](https://img.shields.io/badge/AWS-00FF41?style=flat-square&logo=amazonaws&logoColor=000)
-
----
-
-```
-> ls ./projects --active
-```
-
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│  [LIVE]  APEX-Bot         Rust/Solana sniper · mainnet deployed     │
-│          WebSocket feeds · stop-loss · PnL reporting                │
-├─────────────────────────────────────────────────────────────────────┤
-│  [PUB]   ZETA Framework   IEEE ICOSEC 2025 · pp.1777–1783           │
-│          Zero-shot robotic task automation · 96–100% success        │
-├─────────────────────────────────────────────────────────────────────┤
-│  [WIN]   NeuroCred         QIE Blockchain · $2,500 · Top 3 Podium   │
-│          On-chain AI credit passport · 25,000 TPS · live deployed   │
-├─────────────────────────────────────────────────────────────────────┤
-│  [WIN]   Lendora AI        Cardano IBW Asia · $2,000 · Winner       │
-│          AI DeFi lending · Best UI/UX + Best Hydra Implementation   │
-├─────────────────────────────────────────────────────────────────────┤
-│  [WIN]   VeriField         BNB Hack Bombay · $150 · Best Greenfield │
-│          DeSci DataNFT marketplace · AI semantic search             │
-├─────────────────────────────────────────────────────────────────────┤
-│  [SDG]   P.E.E.R           Google Solution Challenge 2025           │
-│          100% offline AI education · ESP32 · on-device LLM         │
-├─────────────────────────────────────────────────────────────────────┤
-│  [HACK]  BitLend           Bitcoin++ Most Educational                │
-│          Wallet-native DeFi lending · on-chain credit guardrails    │
-├─────────────────────────────────────────────────────────────────────┤
-│  [LIVE]  Avalanche Arena   Cross-game soulbound identity protocol   │
-│          59 contract tests · 5-job CI/CD · Fuji testnet             │
-├─────────────────────────────────────────────────────────────────────┤
-│  [AI]    Haggle.AI         Multi-strategy LLM negotiation agent     │
-│  [AI]    SynthIQ           Multi-agent research summariser          │
-│  [WEB3]  ScoutX            On-chain talent discovery + reputation   │
-└─────────────────────────────────────────────────────────────────────┘
-```
-
----
-
-```
-> cat research.log
-```
-
-```
-[2025] [IEEE] ZETA — Zero-Shot Task Automation with Foundation Language Models
-       Authors : Divesh Kumar S · Dhev Arjun A I · M. Maharasi · Dr. S. Pavithra
-       Venue   : ICOSEC 2025 · pp. 1777–1783 · ISBN 979-8-3315-9859-4
-       Status  : ACCEPTED // In Press — IEEE Xplore
-
-[2026] [WIP]  Colon Polyp & Cancer Cell Detection
-       Method  : CNN/ResNet · 93% acc · 0.95 F1 · Grad-CAM · Hyperspectral Imaging
-       Status  : MANUSCRIPT_IN_PREPARATION
-```
-
----
-
-```
-> ./achievements --all --sort=prize
-```
-
-```
-╔═══════════════════════════════════════════════════════════════════╗
-║  STATUS   EVENT                                    RESULT         ║
-╠═══════════════════════════════════════════════════════════════════╣
-║  🥇 WIN   QIE Blockchain Hackathon 2025            $2,500         ║
-║           Neural Chain Award · NeuroCred · Top 3 Podium           ║
-║  🥇 WIN   Cardano IBW Asia 2025                    $2,000         ║
-║           Best UI/UX + Best Hydra · Lendora AI                    ║
-║  🥈 2ND   Beach Hack 2026 · 36hr offline Kerala    ₹20,000        ║
-║  🏅 WIN   BNB Hack Bombay 2025                     $150           ║
-║           Best Greenfield · VeriField                             ║
-║  🎤 TOP   Bitcoin++ Global Hackathon               Most Educ.     ║
-║  🏛️ FIN   IIT Madras Smart Hostel Hackathon        Top 25         ║
-║  ⚡ TOP   Micro Labs Fever Hackathon 2025           Top 15         ║
-║  🔥 TOP   GDG On Campus CIT TechSprint             Top 8          ║
-║  🛡️ FIN   ExploiX CTF CIT                          Top 40         ║
-║  📄 PUB   IEEE ICOSEC 2025                         pp.1777–1783   ║
-║  💻 CODE  LeetCode                                 118+ / 1492    ║
-╠═══════════════════════════════════════════════════════════════════╣
-║  TOTAL: 70+ hackathons competed · $4,650+ in prizes               ║
-╚═══════════════════════════════════════════════════════════════════╝
-```
-
----
-
-```
-> git stats --user=DiveshK007
-```
+### 🛠️ Tech Stack
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=DiveshK007&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=00FF41&ring_color=00FF41"/>
+
+**🤖 AI / ML / Research**
+
+![Python](https://img.shields.io/badge/Python-1e1b4b?style=flat-square&logo=python&logoColor=a78bfa)
+![PyTorch](https://img.shields.io/badge/PyTorch-1e1b4b?style=flat-square&logo=pytorch&logoColor=a78bfa)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-1e1b4b?style=flat-square&logo=tensorflow&logoColor=a78bfa)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-1e1b4b?style=flat-square&logo=huggingface&logoColor=a78bfa)
+![OpenCV](https://img.shields.io/badge/OpenCV-1e1b4b?style=flat-square&logo=opencv&logoColor=a78bfa)
+![LangChain](https://img.shields.io/badge/LangChain-1e1b4b?style=flat-square&logo=chainlink&logoColor=a78bfa)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-1e1b4b?style=flat-square&logo=scikitlearn&logoColor=a78bfa)
+![PyBullet](https://img.shields.io/badge/PyBullet-1e1b4b?style=flat-square&logo=python&logoColor=a78bfa)
+
+**⛓️ Web3 / Blockchain**
+
+![Rust](https://img.shields.io/badge/Rust-1e1b4b?style=flat-square&logo=rust&logoColor=f472b6)
+![Solana](https://img.shields.io/badge/Solana-1e1b4b?style=flat-square&logo=solana&logoColor=f472b6)
+![Solidity](https://img.shields.io/badge/Solidity-1e1b4b?style=flat-square&logo=solidity&logoColor=f472b6)
+![Hardhat](https://img.shields.io/badge/Hardhat-1e1b4b?style=flat-square&logo=ethereum&logoColor=f472b6)
+![Foundry](https://img.shields.io/badge/Foundry-1e1b4b?style=flat-square&logo=ethereum&logoColor=f472b6)
+![wagmi](https://img.shields.io/badge/wagmi-1e1b4b?style=flat-square&logo=react&logoColor=f472b6)
+![BNB Greenfield](https://img.shields.io/badge/BNB_Greenfield-1e1b4b?style=flat-square&logo=binance&logoColor=f472b6)
+![Avalanche](https://img.shields.io/badge/Avalanche-1e1b4b?style=flat-square&logo=avalanche&logoColor=f472b6)
+
+**🖥️ Frontend / Backend / Infra**
+
+![Next.js](https://img.shields.io/badge/Next.js-1e1b4b?style=flat-square&logo=next.js&logoColor=818cf8)
+![TypeScript](https://img.shields.io/badge/TypeScript-1e1b4b?style=flat-square&logo=typescript&logoColor=818cf8)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-1e1b4b?style=flat-square&logo=tailwindcss&logoColor=818cf8)
+![FastAPI](https://img.shields.io/badge/FastAPI-1e1b4b?style=flat-square&logo=fastapi&logoColor=818cf8)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1e1b4b?style=flat-square&logo=postgresql&logoColor=818cf8)
+![Docker](https://img.shields.io/badge/Docker-1e1b4b?style=flat-square&logo=docker&logoColor=818cf8)
+![AWS](https://img.shields.io/badge/AWS-1e1b4b?style=flat-square&logo=amazonaws&logoColor=818cf8)
+
+</div>
+
+---
+
+### 🚀 Projects
+
+| Project | What it does | Stack | Result |
+|---|---|---|---|
+| ⚡ **APEX-Bot** | Rust/Solana sniper — mainnet live. WebSocket feeds, stop-loss, PnL | `Rust` `Solana` | 🟢 Live |
+| 🤖 **ZETA** | Zero-shot robotic task automation via FLMs. 96–100% task success | `PyTorch` `GPT-4` `PyBullet` | 📄 IEEE 2025 |
+| 🧠 **NeuroCred** | On-chain AI credit passport · QIE Blockchain · 25k TPS · live | `Solidity` `AI` | 🥇 $2,500 |
+| 🏆 **Lendora AI** | AI-powered DeFi lending on Cardano. Best UI/UX + Best Hydra Impl | `Cardano` `Solidity` | 🥇 $2,000 |
+| 🌍 **P.E.E.R** | 100% offline AI education. SDG 4. ESP32 + on-device LLM (Gemma-2B) | `Python` `ESP32` `Next.js` | 🌐 Google |
+| ✅ **VeriField** | DeSci DataNFT marketplace · AI semantic search · BNB Greenfield | `BNB Chain` `Solidity` | 🏅 $150 |
+| 💸 **BitLend** | Wallet-native DeFi lending with on-chain credit guardrails | `Bitcoin` `Solidity` | 🎤 Bitcoin++ |
+| 🔗 **Avalanche Arena** | Cross-game soulbound identity · 59 contract tests · 5-job CI/CD | `Avalanche` `Hardhat` | ⛓️ Testnet |
+| 🤝 **Haggle.AI** | Autonomous multi-strategy LLM negotiation agent | `FastAPI` `LLMs` | — |
+| 🔬 **SynthIQ** | Multi-agent research summariser with knowledge graph UI | `FastAPI` `React` | — |
+
+---
+
+### 📚 Research
+
+> **\[1\]** Divesh Kumar S, Dhev Arjun A I, M. Maharasi, Dr. S. Pavithra Sankarappan  
+> *"Zero-Shot Task Automation with Foundation Language Models"*  
+> **IEEE ICOSEC 2025** · pp. 1777–1783 · ISBN 979-8-3315-9859-4 · **In Press**
+
+> **\[2\]** Divesh Kumar S et al.  
+> *"Colon Polyp & Cancer Cell Detection — Deep Learning + Hyperspectral Imaging"*  
+> 93% accuracy · 0.95 F1 · Grad-CAM · **Manuscript in preparation (2025–26)**
+
+---
+
+### 🏆 Achievements
+
+<div align="center">
+
+| 🥇 | QIE Blockchain Hackathon 2025 | **Top 3 · $2,500** · Neural Chain Award |
+|---|---|---|
+| 🥇 | Cardano IBW Asia 2025 | **Winner · $2,000** · Best UI/UX + Best Hydra |
+| 🥈 | Beach Hack 2026 · Kerala (36hr offline) | **2nd Place · ₹20,000** |
+| 🏅 | BNB Hack Bombay 2025 | **Winner · $150** · Best Greenfield |
+| 🎤 | Bitcoin++ Global Hackathon | **Most Educational** |
+| 🏛️ | IIT Madras Smart Hostel Hackathon | **Finalist · Top 25** |
+| ⚡ | Micro Labs Fever Hackathon, Bangalore | **Top 15** |
+| 🔥 | GDG On Campus CIT TechSprint | **Top 8** |
+| 🛡️ | ExploiX CTF CIT | **Finalist · Top 40** |
+| 📄 | IEEE ICOSEC 2025 | **Published · pp. 1777–1783** |
+
+**Total: $4,650+ · 70+ hackathons**
+
+</div>
+
+---
+
+### 📊 Stats
+
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=DiveshK007&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=1e1b4b&title_color=a78bfa&icon_color=f472b6&text_color=e0d7ff&ring_color=6366f1"/>
   &nbsp;
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiveshK007&layout=compact&hide_border=true&bg_color=000000&title_color=00FF41&text_color=00FF41&langs_count=8"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiveshK007&layout=compact&hide_border=true&bg_color=1e1b4b&title_color=a78bfa&text_color=e0d7ff&langs_count=8"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DiveshK007&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00AA2C&dates=005500&currStreakNum=00FF41&sideNums=00FF41"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DiveshK007&hide_border=true&background=1e1b4b&ring=6366f1&fire=ec4899&currStreakLabel=a78bfa&sideLabels=8b5cf6&dates=6d5aac&currStreakNum=e0d7ff&sideNums=e0d7ff"/>
 </div>
 
 ---
 
 <div align="center">
-
-```
-> echo "open to collabs: Web3 | AI | Research"
-open to collabs: Web3 | AI | Research
-> _
-```
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:ec4899&height=120&section=footer&animation=twinkling" width="100%"/>
 </div>
