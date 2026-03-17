@@ -1,26 +1,26 @@
 <!-- HEADER — Style 3 gradient venom -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:6366f1,50:8b5cf6,100:ec4899&height=250&section=header&text=Divesh%20Kumar%20S&fontSize=55&fontColor=ffffff&fontAlignY=45&desc=AI%20Engineer%20%C2%B7%20Web3%20Builder%20%C2%B7%20Researcher&descSize=16&descColor=e0d7ff&descAlignY=65&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:064e3b,50:065f46,100:047857&height=250&section=header&text=Divesh%20Kumar%20S&fontSize=55&fontColor=ffffff&fontAlignY=45&desc=AI%20Engineer%20%C2%B7%20Web3%20Builder%20%C2%B7%20Researcher&descSize=16&descColor=d1fae5&descAlignY=65&animation=fadeIn" width="100%"/>
 </div>
 
 <!-- TYPING — Style 3 font/colour -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=17&pause=1000&color=A78BFA&center=true&vCenter=true&width=640&lines=IEEE+Published+%40+19+%E2%80%94+ICOSEC+2025;%244%2C650%2B+across+70%2B+hackathons;APEX-Bot+running+live+on+Solana+Mainnet;Foundation+Models+%C3%97+Embodied+AI+%C3%97+Web3" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=17&pause=1000&color=10B981&center=true&vCenter=true&width=640&lines=IEEE+Published+%40+19+%E2%80%94+ICOSEC+2025;%244%2C650%2B+across+70%2B+hackathons;APEX-Bot+running+live+on+Solana+Mainnet;Foundation+Models+%C3%97+Embodied+AI+%C3%97+Web3" />
 </div>
 
 <br/>
 
 <!-- TOP BADGES — OG style, Style 3 colours -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=DiveshK007&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS&labelColor=1e1b4b"/>
+  <img src="https://komarev.com/ghpvc/?username=DiveshK007&style=for-the-badge&color=059669&label=PROFILE+VIEWS&labelColor=022c22"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/IEEE_Published-ICOSEC_2025-8b5cf6?style=for-the-badge&labelColor=1e1b4b"/>
+  <img src="https://img.shields.io/badge/IEEE_Published-ICOSEC_2025-10b981?style=for-the-badge&labelColor=022c22"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Prize_Money-%244%2C650%2B-ec4899?style=for-the-badge&labelColor=1e1b4b"/>
+  <img src="https://img.shields.io/badge/Prize_Money-%244%2C650%2B-059669?style=for-the-badge&labelColor=022c22"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Hackathons-70%2B-6366f1?style=for-the-badge&labelColor=1e1b4b"/>
+  <img src="https://img.shields.io/badge/Hackathons-70%2B-10b981?style=for-the-badge&labelColor=022c22"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Age-19-8b5cf6?style=for-the-badge&labelColor=1e1b4b"/>
+  <img src="https://img.shields.io/badge/Age-19-10b981?style=for-the-badge&labelColor=022c22"/>
 </div>
 
 <br/>
@@ -28,11 +28,11 @@
 <!-- SOCIALS — Style 3 gradient buttons -->
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=4338ca)](https://linkedin.com/in/diveshk007)
-[![GitHub](https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=6d28d9)](https://github.com/DiveshK007)
-[![Email](https://img.shields.io/badge/Email-EC4899?style=for-the-badge&logo=gmail&logoColor=white&labelColor=be185d)](mailto:diveshkumar.s007@gmail.com)
-[![Twitter](https://img.shields.io/badge/@DIVZZZ007-6366F1?style=for-the-badge&logo=x&logoColor=white&labelColor=4338ca)](https://x.com/DIVZZZ007)
-[![Superteam](https://img.shields.io/badge/Superteam-8B5CF6?style=for-the-badge&logo=solana&logoColor=white&labelColor=6d28d9)](https://earn.superteam.fun/t/DIVZZZ007)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-059669?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=065f46)](https://linkedin.com/in/diveshk007)
+[![GitHub](https://img.shields.io/badge/GitHub-10B981?style=for-the-badge&logo=github&logoColor=white&labelColor=047857)](https://github.com/DiveshK007)
+[![Email](https://img.shields.io/badge/Email-059669?style=for-the-badge&logo=gmail&logoColor=white&labelColor=065f46)](mailto:diveshkumar.s007@gmail.com)
+[![Twitter](https://img.shields.io/badge/@DIVZZZ007-059669?style=for-the-badge&logo=x&logoColor=white&labelColor=065f46)](https://x.com/DIVZZZ007)
+[![Superteam](https://img.shields.io/badge/Superteam-10B981?style=for-the-badge&logo=solana&logoColor=white&labelColor=047857)](https://earn.superteam.fun/t/DIVZZZ007)
 
 </div>
 
@@ -74,16 +74,16 @@ struct Divesh {
 <summary><b>🤖 AI / ML / Research</b></summary>
 <br/>
 
-![Python](https://img.shields.io/badge/Python-1e1b4b?style=for-the-badge&logo=python&logoColor=a78bfa)
-![PyTorch](https://img.shields.io/badge/PyTorch-1e1b4b?style=for-the-badge&logo=pytorch&logoColor=a78bfa)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-1e1b4b?style=for-the-badge&logo=tensorflow&logoColor=a78bfa)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-1e1b4b?style=for-the-badge&logo=huggingface&logoColor=a78bfa)
-![OpenCV](https://img.shields.io/badge/OpenCV-1e1b4b?style=for-the-badge&logo=opencv&logoColor=a78bfa)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-1e1b4b?style=for-the-badge&logo=scikitlearn&logoColor=a78bfa)
-![LangChain](https://img.shields.io/badge/LangChain-1e1b4b?style=for-the-badge&logo=chainlink&logoColor=a78bfa)
-![NumPy](https://img.shields.io/badge/NumPy-1e1b4b?style=for-the-badge&logo=numpy&logoColor=a78bfa)
-![Pandas](https://img.shields.io/badge/Pandas-1e1b4b?style=for-the-badge&logo=pandas&logoColor=a78bfa)
-![PyBullet](https://img.shields.io/badge/PyBullet-1e1b4b?style=for-the-badge&logo=python&logoColor=a78bfa)
+![Python](https://img.shields.io/badge/Python-052e16?style=for-the-badge&logo=python&logoColor=10b981)
+![PyTorch](https://img.shields.io/badge/PyTorch-052e16?style=for-the-badge&logo=pytorch&logoColor=10b981)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-052e16?style=for-the-badge&logo=tensorflow&logoColor=10b981)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-052e16?style=for-the-badge&logo=huggingface&logoColor=10b981)
+![OpenCV](https://img.shields.io/badge/OpenCV-052e16?style=for-the-badge&logo=opencv&logoColor=10b981)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-052e16?style=for-the-badge&logo=scikitlearn&logoColor=10b981)
+![LangChain](https://img.shields.io/badge/LangChain-052e16?style=for-the-badge&logo=chainlink&logoColor=10b981)
+![NumPy](https://img.shields.io/badge/NumPy-052e16?style=for-the-badge&logo=numpy&logoColor=10b981)
+![Pandas](https://img.shields.io/badge/Pandas-052e16?style=for-the-badge&logo=pandas&logoColor=10b981)
+![PyBullet](https://img.shields.io/badge/PyBullet-052e16?style=for-the-badge&logo=python&logoColor=10b981)
 
 </details>
 
@@ -91,17 +91,17 @@ struct Divesh {
 <summary><b>⛓️ Web3 / Blockchain</b></summary>
 <br/>
 
-![Rust](https://img.shields.io/badge/Rust-1e1b4b?style=for-the-badge&logo=rust&logoColor=f472b6)
-![Solana](https://img.shields.io/badge/Solana-1e1b4b?style=for-the-badge&logo=solana&logoColor=f472b6)
-![Solidity](https://img.shields.io/badge/Solidity-1e1b4b?style=for-the-badge&logo=solidity&logoColor=f472b6)
-![Hardhat](https://img.shields.io/badge/Hardhat-1e1b4b?style=for-the-badge&logo=ethereum&logoColor=f472b6)
-![Foundry](https://img.shields.io/badge/Foundry-1e1b4b?style=for-the-badge&logo=ethereum&logoColor=f472b6)
-![Ethers.js](https://img.shields.io/badge/Ethers.js-1e1b4b?style=for-the-badge&logo=ethereum&logoColor=f472b6)
-![wagmi](https://img.shields.io/badge/wagmi-1e1b4b?style=for-the-badge&logo=react&logoColor=f472b6)
-![viem](https://img.shields.io/badge/viem-1e1b4b?style=for-the-badge&logo=ethereum&logoColor=f472b6)
-![BNB Greenfield](https://img.shields.io/badge/BNB_Greenfield-1e1b4b?style=for-the-badge&logo=binance&logoColor=f472b6)
-![IPFS](https://img.shields.io/badge/IPFS-1e1b4b?style=for-the-badge&logo=ipfs&logoColor=f472b6)
-![Avalanche](https://img.shields.io/badge/Avalanche-1e1b4b?style=for-the-badge&logo=avalanche&logoColor=f472b6)
+![Rust](https://img.shields.io/badge/Rust-052e16?style=for-the-badge&logo=rust&logoColor=34d399)
+![Solana](https://img.shields.io/badge/Solana-052e16?style=for-the-badge&logo=solana&logoColor=34d399)
+![Solidity](https://img.shields.io/badge/Solidity-052e16?style=for-the-badge&logo=solidity&logoColor=34d399)
+![Hardhat](https://img.shields.io/badge/Hardhat-052e16?style=for-the-badge&logo=ethereum&logoColor=34d399)
+![Foundry](https://img.shields.io/badge/Foundry-052e16?style=for-the-badge&logo=ethereum&logoColor=34d399)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-052e16?style=for-the-badge&logo=ethereum&logoColor=34d399)
+![wagmi](https://img.shields.io/badge/wagmi-052e16?style=for-the-badge&logo=react&logoColor=34d399)
+![viem](https://img.shields.io/badge/viem-052e16?style=for-the-badge&logo=ethereum&logoColor=34d399)
+![BNB Greenfield](https://img.shields.io/badge/BNB_Greenfield-052e16?style=for-the-badge&logo=binance&logoColor=34d399)
+![IPFS](https://img.shields.io/badge/IPFS-052e16?style=for-the-badge&logo=ipfs&logoColor=34d399)
+![Avalanche](https://img.shields.io/badge/Avalanche-052e16?style=for-the-badge&logo=avalanche&logoColor=34d399)
 
 </details>
 
@@ -109,18 +109,18 @@ struct Divesh {
 <summary><b>🖥️ Frontend / Backend / Infra</b></summary>
 <br/>
 
-![Next.js](https://img.shields.io/badge/Next.js-1e1b4b?style=for-the-badge&logo=next.js&logoColor=818cf8)
-![React](https://img.shields.io/badge/React-1e1b4b?style=for-the-badge&logo=react&logoColor=818cf8)
-![TypeScript](https://img.shields.io/badge/TypeScript-1e1b4b?style=for-the-badge&logo=typescript&logoColor=818cf8)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-1e1b4b?style=for-the-badge&logo=tailwindcss&logoColor=818cf8)
-![Node.js](https://img.shields.io/badge/Node.js-1e1b4b?style=for-the-badge&logo=node.js&logoColor=818cf8)
-![FastAPI](https://img.shields.io/badge/FastAPI-1e1b4b?style=for-the-badge&logo=fastapi&logoColor=818cf8)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1e1b4b?style=for-the-badge&logo=postgresql&logoColor=818cf8)
-![MongoDB](https://img.shields.io/badge/MongoDB-1e1b4b?style=for-the-badge&logo=mongodb&logoColor=818cf8)
-![Redis](https://img.shields.io/badge/Redis-1e1b4b?style=for-the-badge&logo=redis&logoColor=818cf8)
-![Docker](https://img.shields.io/badge/Docker-1e1b4b?style=for-the-badge&logo=docker&logoColor=818cf8)
-![AWS](https://img.shields.io/badge/AWS-1e1b4b?style=for-the-badge&logo=amazonaws&logoColor=818cf8)
-![GitHub Actions](https://img.shields.io/badge/CI/CD-1e1b4b?style=for-the-badge&logo=githubactions&logoColor=818cf8)
+![Next.js](https://img.shields.io/badge/Next.js-052e16?style=for-the-badge&logo=next.js&logoColor=6ee7b7)
+![React](https://img.shields.io/badge/React-052e16?style=for-the-badge&logo=react&logoColor=6ee7b7)
+![TypeScript](https://img.shields.io/badge/TypeScript-052e16?style=for-the-badge&logo=typescript&logoColor=6ee7b7)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-052e16?style=for-the-badge&logo=tailwindcss&logoColor=6ee7b7)
+![Node.js](https://img.shields.io/badge/Node.js-052e16?style=for-the-badge&logo=node.js&logoColor=6ee7b7)
+![FastAPI](https://img.shields.io/badge/FastAPI-052e16?style=for-the-badge&logo=fastapi&logoColor=6ee7b7)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-052e16?style=for-the-badge&logo=postgresql&logoColor=6ee7b7)
+![MongoDB](https://img.shields.io/badge/MongoDB-052e16?style=for-the-badge&logo=mongodb&logoColor=6ee7b7)
+![Redis](https://img.shields.io/badge/Redis-052e16?style=for-the-badge&logo=redis&logoColor=6ee7b7)
+![Docker](https://img.shields.io/badge/Docker-052e16?style=for-the-badge&logo=docker&logoColor=6ee7b7)
+![AWS](https://img.shields.io/badge/AWS-052e16?style=for-the-badge&logo=amazonaws&logoColor=6ee7b7)
+![GitHub Actions](https://img.shields.io/badge/CI/CD-052e16?style=for-the-badge&logo=githubactions&logoColor=6ee7b7)
 
 </details>
 
@@ -130,20 +130,7 @@ struct Divesh {
 
 ## `$  cat projects.md`
 
-<!-- PINNED REPO CARDS — top 2 -->
-<div align="center">
-  <a href="https://github.com/DiveshK007/APEX-Bot">
-    <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=DiveshK007&repo=APEX-Bot&hide_border=true&bg_color=1e1b4b&title_color=a78bfa&icon_color=f472b6&text_color=e0d7ff&description_lines_count=2"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/DiveshK007/zeta-simulation">
-    <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=DiveshK007&repo=zeta-simulation&hide_border=true&bg_color=1e1b4b&title_color=a78bfa&icon_color=f472b6&text_color=e0d7ff&description_lines_count=2"/>
-  </a>
-</div>
 
-<br/>
-
-<!-- REST OF PROJECTS -->
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -268,20 +255,20 @@ struct Divesh {
 ## `$  git log --oneline --graph`
 
 <div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=DiveshK007&show_icons=true&count_private=true&hide_border=true&bg_color=1e1b4b&title_color=a78bfa&icon_color=f472b6&text_color=e0d7ff&ring_color=6366f1"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=DiveshK007&show_icons=true&count_private=true&hide_border=true&bg_color=022c22&title_color=10b981&icon_color=34d399&text_color=d1fae5&ring_color=059669"/>
   &nbsp;
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiveshK007&layout=compact&hide_border=true&bg_color=1e1b4b&title_color=a78bfa&text_color=e0d7ff&langs_count=8&hide=html,css"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiveshK007&layout=compact&hide_border=true&bg_color=022c22&title_color=10b981&text_color=d1fae5&langs_count=8&hide=html,css"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=DiveshK007&hide_border=true&background=1e1b4b&ring=6366f1&fire=ec4899&currStreakLabel=a78bfa&sideLabels=8b5cf6&dates=6d5aac&currStreakNum=e0d7ff&sideNums=e0d7ff"/>
+  <img src="https://streak-stats.demolab.com/?user=DiveshK007&hide_border=true&background=022c22&ring=059669&fire=10b981&currStreakLabel=10b981&sideLabels=34d399&dates=065f46&currStreakNum=d1fae5&sideNums=d1fae5"/>
 </div>
 
 <br/>
 
 <!-- ACTIVITY GRAPH -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DiveshK007&bg_color=1e1b4b&color=a78bfa&line=6366f1&point=ec4899&area=true&area_color=6366f1&hide_border=true&custom_title=Contribution%20Activity" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DiveshK007&bg_color=022c22&color=10b981&line=059669&point=34d399&area=true&area_color=059669&hide_border=true&custom_title=Contribution%20Activity" width="100%"/>
 </div>
 
 <br/>
@@ -328,15 +315,15 @@ struct Divesh {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=4338ca)](https://linkedin.com/in/diveshk007)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-059669?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=065f46)](https://linkedin.com/in/diveshk007)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=6d28d9)](https://github.com/DiveshK007)
+[![GitHub](https://img.shields.io/badge/GitHub-10B981?style=for-the-badge&logo=github&logoColor=white&labelColor=047857)](https://github.com/DiveshK007)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-EC4899?style=for-the-badge&logo=gmail&logoColor=white&labelColor=be185d)](mailto:diveshkumar.s007@gmail.com)
+[![Email](https://img.shields.io/badge/Email-059669?style=for-the-badge&logo=gmail&logoColor=white&labelColor=065f46)](mailto:diveshkumar.s007@gmail.com)
 &nbsp;
-[![Twitter/X](https://img.shields.io/badge/@DIVZZZ007-6366F1?style=for-the-badge&logo=x&logoColor=white&labelColor=4338ca)](https://x.com/DIVZZZ007)
+[![Twitter/X](https://img.shields.io/badge/@DIVZZZ007-059669?style=for-the-badge&logo=x&logoColor=white&labelColor=065f46)](https://x.com/DIVZZZ007)
 &nbsp;
-[![Superteam](https://img.shields.io/badge/Superteam-8B5CF6?style=for-the-badge&logo=solana&logoColor=white&labelColor=6d28d9)](https://earn.superteam.fun/t/DIVZZZ007)
+[![Superteam](https://img.shields.io/badge/Superteam-10B981?style=for-the-badge&logo=solana&logoColor=white&labelColor=047857)](https://earn.superteam.fun/t/DIVZZZ007)
 
 </div>
 
@@ -357,5 +344,5 @@ struct Divesh {
 
 <!-- FOOTER — Style 3 gradient -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:ec4899&height=120&section=footer&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:064e3b,50:065f46,100:047857&height=120&section=footer&animation=fadeIn" width="100%"/>
 </div>
